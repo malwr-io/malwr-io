@@ -3,6 +3,9 @@ title: malwr
 subtitle: Home
 layout: page
 show_sidebar: true
+show_menue: true
 hide_hero: false
-hero_image: /
+hero_text: malwr
 hero_height: is-fullwidth
+hide_footer: false
+
