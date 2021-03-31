@@ -1,1 +1,5 @@
 remote_theme: chrisrhymes/bulma-clean-theme
+title: malwr
+subtitle: Home
+layout: page
+show_sidebar: true
