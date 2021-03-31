@@ -1,9 +1,10 @@
 remote_theme: chrisrhymes/bulma-clean-theme
+theme_color: '#333333'
 title: malwr
-subtitle: Home
+subtitle: home
 layout: page
 show_sidebar: true
-show_menue: true
+show_menu: true
 hide_hero: false
 hero_text: malwr
 hero_image: /7E356410-6840-465B-83E8-7DE1B5DF45AB.png
