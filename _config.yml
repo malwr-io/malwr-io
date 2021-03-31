@@ -5,8 +5,8 @@ layout: page
 show_sidebar: false
 show_menu: true
 hero_text: malwr
-hero_image: /img/7E356410-6840-465B-83E8-7DE1B5DF45AB.png
+hero_image: /malwr-io/malwr-io/gh-pages/7E356410-6840-465B-83E8-7DE1B5DF45AB.png
 hero_height: is-fullwidth
 hide_footer: false
-theme_color: dark-grey
+theme_color: $dark-grey
 fixed_navbar: top
